@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V3-Laskin", "V3-Laskin.csproj", "{62D3736C-B346-4765-8D8D-889D56BB31C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62D3736C-B346-4765-8D8D-889D56BB31C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D3736C-B346-4765-8D8D-889D56BB31C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D3736C-B346-4765-8D8D-889D56BB31C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D3736C-B346-4765-8D8D-889D56BB31C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C54EAFF2-0CA1-41C7-99C4-8A02DB51E3A9}
+	EndGlobalSection
+EndGlobal
